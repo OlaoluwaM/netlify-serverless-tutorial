@@ -12,6 +12,7 @@
   "author": "Olaoluwa Mustapha <jomeemustapha@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "netlify-lambda": "^2.0.1"
+    "netlify-lambda": "^2.0.1",
+    "node-fetch": "^2.6.0"
   }
 }
